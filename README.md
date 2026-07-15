@@ -124,7 +124,7 @@ This improves interpretability and provides visual support for model predictions
 ---
 
 
-##Single Image Prediction
+## Single Image Prediction
 
 The project also supports single-image prediction. A new ovarian ultrasound image can be uploaded, and the trained EfficientNet-B3 model predicts the class with confidence score.
 
